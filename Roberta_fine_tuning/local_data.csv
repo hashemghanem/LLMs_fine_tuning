@@ -1,0 +1,8 @@
+text,target
+"""I love this sandwich""",positive
+"""This is an amazing place""",positive
+"""I feel very good about these beers""",positive
+"""This is my best work""",positive
+"""I do not like this restaurant""",negative
+"""I am tired of this stuff""",negative
+"""I can't deal with this""",negative
