@@ -1,2 +1,2 @@
 # LLMs_fine_tuning
-Materials of the LLM fine-tuning course at Le Bahut school
+Les matériaux du cours "Fine-tuning des modéles LLMs"  au LeBahut.
